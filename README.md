@@ -1,4 +1,4 @@
-#Car_Price_Predictor 🔮🤑🚗
+# 🚗🤑🔮 Car_Price_Predictor 🔮🤑🚗
 
 -This is my app that uses machine learning algorithms to predict the price of a car based on various features such as mileage, model, year, etc. 🚘💰
 
