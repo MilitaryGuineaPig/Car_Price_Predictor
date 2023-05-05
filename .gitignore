@@ -5,3 +5,15 @@ Code/.idea/modules.xml
 Code/.idea/misc.xml
 Code/.idea/vcs.xml
 .DS_Store
+res/.idea/res.iml
+res/.idea/modules.xml
+res/.idea/misc.xml
+res/.idea/workspace.xml
+res/.idea/inspectionProfiles/profiles_settings.xml
+Code/res/originalData.csv
+Code/res/formattedData.xlsx
+Code/random_forest_model_94.pkl
+Code/random_forest_model_70.pkl
+Code/mod_data.csv
+Code/__pycache__/model_build.cpython-39.pyc
+Code/__pycache__/data_norm.cpython-39.pyc
